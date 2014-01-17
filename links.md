@@ -21,6 +21,7 @@ Wichtige Links zu Tools, Plugins, Tutorials und Websites.
 
 1. [WordPress-Newsletter](http://www.wordpress-newsletter.perun.net) – erster deutschsprachiger WordPress-Newsletter.
 2. [Deutschsprachiges Paket](http://wpde.org/download/) – WordPress mit deutscher Sprachdatei und übersetzten Inhalten.
+3. [WP Tavern](http://wptavern.com) – sehr aktives englischsprachiges Weblog mit News und Tutorials.
 
 ## Sonstige Informationen
 
