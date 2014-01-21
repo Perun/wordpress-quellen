@@ -5,17 +5,22 @@ Wichtige Links zu Tools, Plugins, Tutorials und Websites.
 ## Tools und Plugins
 
 1. [InfiniteWP](http://infinitewp.com/) – "InfiniteWP is a self-hosted, freely-available multiple WordPress management platform that simplifies your WordPress management tasks into a simple click of a button."
-2. [WordPress-Plugin-Boilerplate](https://github.com/tommcfarlin/WordPress-Plugin-Boilerplate) – "The WordPress Plugin Boilerplate serves as a foundation and aims to provide a clear and consistent guide for building your WordPress plugins."
+2. [Instant WordPress](http://www.instantwp.com/) – Schnelle und komfortable Installation unter Windows. [Siehe auch](http://www.perun.net/2012/08/22/instant-wordpress-schnelle-und-komfortable-installation-unter-windows/).
+3. [WordPress-Plugin-Boilerplate](https://github.com/tommcfarlin/WordPress-Plugin-Boilerplate) – "The WordPress Plugin Boilerplate serves as a foundation and aims to provide a clear and consistent guide for building your WordPress plugins."
 
 ## Themes
 
-1. [14 key WordPress functions to jump-start theme development](http://www.webdesignerdepot.com/2013/05/1-key-wordpress-functions-to-jump-start-theme-development/)
+1. [Theme Review](http://codex.wordpress.org/Theme_Review) – Regeln um das Theme im offiziellen verzeichnis zu veröffentlichen.
+2. [14 key WordPress functions to jump-start theme development](http://www.webdesignerdepot.com/2013/05/1-key-wordpress-functions-to-jump-start-theme-development/)
 2. [Removing Image and Caption Dimension Attributes](http://wordpress.stackexchange.com/questions/32931/removing-image-and-caption-dimension-attributes) – Anleitung wie man die Angaben zur Höhe und Breite bei den Bildern und bei der Bilder-Beschreibung entfernen kann.
-3. [Entscheidungshilfe: get_post() oder WP_Query](http://bueltge.de/entscheidungshilfe-get_post-oder-wp_query/4284/) – Zwei verschiedene Methoden um Inhalte abzurufen.
+3. [Entscheidungshilfe: `get_post()` oder `WP_Query`](http://bueltge.de/entscheidungshilfe-get_post-oder-wp_query/4284/) – Zwei verschiedene Methoden um Inhalte abzurufen.
 
 ## Administration
+1. [Nav Menu Roles](http://wordpress.org/plugins/nav-menu-roles/) – Plugin um die individuellen Menüs für bestimmte Nutzer zu verstecken.
 
 ## Redaktionelle Betreuung
+
+1. [11 Tipps um komfortabler und stressfrei Artikel zu erstellen](http://www.perun.net/2012/03/30/wordpress-11-tipps-um-komfortabler-und-stressfrei-artikel-zu-erstellen/)
 
 ## Wichtige Websites (Downloads, Newsletter, News etc.)
 
