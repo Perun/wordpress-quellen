@@ -16,6 +16,7 @@ Downloads, Newsletter oder Websites, die sich im allgemeinen mit WP beschäftige
 2. [Instant WordPress](http://www.instantwp.com/) – Schnelle und komfortable Installation unter Windows. [Siehe auch](http://www.perun.net/2012/08/22/instant-wordpress-schnelle-und-komfortable-installation-unter-windows/).
 3. [WordPress-Plugin-Boilerplate](https://github.com/tommcfarlin/WordPress-Plugin-Boilerplate) – "The WordPress Plugin Boilerplate serves as a foundation and aims to provide a clear and consistent guide for building your WordPress plugins."
 4. [Sandbox-Plugin um eine geschützte Testumgebung zu erstellen](http://wptavern.com/sandbox-plugin-creates-a-wordpress-test-environment-in-two-clicks) – "Sandbox Plugin Creates a WordPress Test Environment in Two Clicks"
+5. [GitHub-Updater](https://github.com/afragen/github-updater) – Plugins und Themes, die auf GitHub gehostet werden können mit Hilfe dieses Plugins aus dem backend heraus aktualisert werden.
 
 ## Themes
 
