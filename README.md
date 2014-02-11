@@ -31,6 +31,10 @@ Downloads, Newsletter oder Websites, die sich im allgemeinen mit WP beschäftige
 
 1. [11 Tipps um komfortabler und stressfrei Artikel zu erstellen](http://www.perun.net/2012/03/30/wordpress-11-tipps-um-komfortabler-und-stressfrei-artikel-zu-erstellen/)
 
+## Literatur: Bücher, E-Books & Co.
+
+1. [Einstieg in WordPress 3.8](http://www.perun.net/2014/01/31/einstieg-in-wordpress-3-8-als-gedrucktes-buch-und-als-e-book/)
+
 
 ## Sonstige Informationen
 
