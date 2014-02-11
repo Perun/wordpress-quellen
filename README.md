@@ -27,6 +27,7 @@ Downloads, Newsletter oder Websites, die sich im allgemeinen mit WP beschäftige
 
 ## Administration
 1. [Nav Menu Roles](http://wordpress.org/plugins/nav-menu-roles/) – Plugin um die individuellen Menüs für bestimmte Nutzer zu verstecken.
+2. [Hilfe-Text im Backend anpassen](http://code.tutsplus.com/tutorials/customizing-the-wordpress-admin-help-text--wp-33281)
 
 ## Redaktionelle Betreuung
 
