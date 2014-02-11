@@ -23,6 +23,7 @@ Downloads, Newsletter oder Websites, die sich im allgemeinen mit WP beschäftige
 2. [14 key WordPress functions to jump-start theme development](http://www.webdesignerdepot.com/2013/05/1-key-wordpress-functions-to-jump-start-theme-development/)
 2. [Removing Image and Caption Dimension Attributes](http://wordpress.stackexchange.com/questions/32931/removing-image-and-caption-dimension-attributes) – Anleitung wie man die Angaben zur Höhe und Breite bei den Bildern und bei der Bilder-Beschreibung entfernen kann.
 3. [Entscheidungshilfe: `get_post()` oder `WP_Query`](http://bueltge.de/entscheidungshilfe-get_post-oder-wp_query/4284/) – Zwei verschiedene Methoden um Inhalte abzurufen.
+4. [Underscores](http://underscores.me) – ein sehr bekanntes Starter-Theme, welches man als Grundlage für sein eigenes Theme nehmen kann.
 
 ## Administration
 1. [Nav Menu Roles](http://wordpress.org/plugins/nav-menu-roles/) – Plugin um die individuellen Menüs für bestimmte Nutzer zu verstecken.
