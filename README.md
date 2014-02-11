@@ -28,8 +28,8 @@ Vorerst wird hier auch der Bereich Performance (-Optimierung) einsortiert
 4. [Entscheidungshilfe: `get_post()` oder `WP_Query`](http://bueltge.de/entscheidungshilfe-get_post-oder-wp_query/4284/) – Zwei verschiedene Methoden um Inhalte abzurufen.
 5. [Underscores](http://underscores.me) – ein sehr bekanntes Starter-Theme, welches man als Grundlage für sein eigenes Theme nehmen kann.
 6. [Theme Performance](http://themeshaper.com/2014/02/06/theme-performance/) – engl. Artikel zum Thema Performance-Optimierung.
-7. [
-5 einfache Maßnahmen um die Performance von WordPress-Websites zu verbessern](http://www.perun.net/2012/03/19/5-einfache-massnahmen-um-die-performance-von-wordpress-websites-zu-verbessern/) – dt. Artikel zum Thema Performance
+7. [5 einfache Maßnahmen um die Performance von WordPress-Websites zu verbessern](http://www.perun.net/2012/03/19/5-einfache-massnahmen-um-die-performance-von-wordpress-websites-zu-verbessern/) – dt. Artikel zum Thema Performance
+8. [Eigenes WordPress-Theme erstellen](http://www.perun.net/2013/12/19/wordpress-kurs-kostenloser-einstieg-in-die-themes-entwicklung/) – "*128 DIN-A4-Seiten langer, kostenloser WordPress-Kurs in dem Einsteigern + Quereinsteigern vermittelt wird, wie man eigene Themes erstellen kann*"
 
 ## Administration
 1. [Nav Menu Roles](http://wordpress.org/plugins/nav-menu-roles/) – Plugin um die individuellen Menüs für bestimmte Nutzer zu verstecken.
