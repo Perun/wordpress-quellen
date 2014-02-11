@@ -2,11 +2,20 @@
 
 Wichtige Links zu Tools, Plugins, Tutorials und Websites.
 
+## Allgemein
+
+Downloads, Newsletter oder Websites, die sich im allgemeinen mit WP beschäftigen.
+
+1. [WordPress-Newsletter](http://www.wordpress-newsletter.perun.net) – erster deutschsprachiger WordPress-Newsletter.
+2. [Deutschsprachiges Paket](http://wpde.org/download/) – WordPress mit deutscher Sprachdatei und übersetzten Inhalten.
+3. [WP Tavern](http://wptavern.com) – sehr aktives englischsprachiges Weblog mit News und Tutorials.
+
 ## Tools und Plugins
 
 1. [InfiniteWP](http://infinitewp.com/) – "InfiniteWP is a self-hosted, freely-available multiple WordPress management platform that simplifies your WordPress management tasks into a simple click of a button."
 2. [Instant WordPress](http://www.instantwp.com/) – Schnelle und komfortable Installation unter Windows. [Siehe auch](http://www.perun.net/2012/08/22/instant-wordpress-schnelle-und-komfortable-installation-unter-windows/).
 3. [WordPress-Plugin-Boilerplate](https://github.com/tommcfarlin/WordPress-Plugin-Boilerplate) – "The WordPress Plugin Boilerplate serves as a foundation and aims to provide a clear and consistent guide for building your WordPress plugins."
+4. [Sandbox-Plugin um eine geschützte Testumgebung zu erstellen](http://wptavern.com/sandbox-plugin-creates-a-wordpress-test-environment-in-two-clicks)
 
 ## Themes
 
@@ -22,13 +31,9 @@ Wichtige Links zu Tools, Plugins, Tutorials und Websites.
 
 1. [11 Tipps um komfortabler und stressfrei Artikel zu erstellen](http://www.perun.net/2012/03/30/wordpress-11-tipps-um-komfortabler-und-stressfrei-artikel-zu-erstellen/)
 
-## Wichtige Websites (Downloads, Newsletter, News etc.)
-
-1. [WordPress-Newsletter](http://www.wordpress-newsletter.perun.net) – erster deutschsprachiger WordPress-Newsletter.
-2. [Deutschsprachiges Paket](http://wpde.org/download/) – WordPress mit deutscher Sprachdatei und übersetzten Inhalten.
-3. [WP Tavern](http://wptavern.com) – sehr aktives englischsprachiges Weblog mit News und Tutorials.
 
 ## Sonstige Informationen
 
 1. [WordPress in Numbers Infographic 2013](http://www.mooveagency.com/wordpress-infographic-2013)
+2. [WordPress: Die 12 besten Hacks aus 2013](http://t3n.de/news/wordpress-hacks-und-snippets-521944/)
 
