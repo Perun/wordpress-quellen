@@ -19,11 +19,11 @@ Downloads, Newsletter oder Websites, die sich im allgemeinen mit WP beschäftige
 
 1. [Offizielles Plugin-Verzeichnis](http://wordpress.org/plugins/)
 2. [GitHub-Updater](https://github.com/afragen/github-updater) – Plugins und Themes, die auf GitHub gehostet werden können mit Hilfe dieses Plugins aus dem backend heraus aktualisert werden.
-2. [InfiniteWP](http://infinitewp.com/) – "InfiniteWP is a self-hosted, freely-available multiple WordPress management platform that simplifies your WordPress management tasks into a simple click of a button."
-2. [Instant WordPress](http://www.instantwp.com/) – Schnelle und komfortable Installation unter Windows. [Siehe auch](http://www.perun.net/2012/08/22/instant-wordpress-schnelle-und-komfortable-installation-unter-windows/).
-3. [WordPress-Plugin-Boilerplate](https://github.com/tommcfarlin/WordPress-Plugin-Boilerplate) – "The WordPress Plugin Boilerplate serves as a foundation and aims to provide a clear and consistent guide for building your WordPress plugins."
-4. [Sandbox-Plugin um eine geschützte Testumgebung zu erstellen](http://wptavern.com/sandbox-plugin-creates-a-wordpress-test-environment-in-two-clicks) – "Sandbox Plugin Creates a WordPress Test Environment in Two Clicks"
-6. [Code Snippets](http://www.perun.net/2012/12/05/wordpress-funktionen-aus-dem-admin-bereich-verwalten/) – ein Plugin mit dem man aus dem Admin-Bereich heraus neue Funktionen für WordPress definieren und verwalten kann.
+3. [InfiniteWP](http://infinitewp.com/) – "InfiniteWP is a self-hosted, freely-available multiple WordPress management platform that simplifies your WordPress management tasks into a simple click of a button."
+4. [Instant WordPress](http://www.instantwp.com/) – Schnelle und komfortable Installation unter Windows. [Siehe auch](http://www.perun.net/2012/08/22/instant-wordpress-schnelle-und-komfortable-installation-unter-windows/).
+5. [WordPress-Plugin-Boilerplate](https://github.com/tommcfarlin/WordPress-Plugin-Boilerplate) – "The WordPress Plugin Boilerplate serves as a foundation and aims to provide a clear and consistent guide for building your WordPress plugins."
+6. [Sandbox-Plugin um eine geschützte Testumgebung zu erstellen](http://wptavern.com/sandbox-plugin-creates-a-wordpress-test-environment-in-two-clicks) – "Sandbox Plugin Creates a WordPress Test Environment in Two Clicks"
+7. [Code Snippets](http://www.perun.net/2012/12/05/wordpress-funktionen-aus-dem-admin-bereich-verwalten/) – ein Plugin mit dem man aus dem Admin-Bereich heraus neue Funktionen für WordPress definieren und verwalten kann.
 
 
 ## Themes
