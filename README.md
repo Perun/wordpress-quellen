@@ -51,6 +51,7 @@ Downloads, Newsletter oder Websites, die sich im allgemeinen mit WP beschäftige
 ## Redaktionelle Betreuung
 
 1. [11 Tipps um komfortabler und stressfrei Artikel zu erstellen](http://www.perun.net/2012/03/30/wordpress-11-tipps-um-komfortabler-und-stressfrei-artikel-zu-erstellen/)
+2. [28 Time Saving Hacks for WordPress Users (From the Experts)](https://managewp.com/wordpress-time-saving-hacks)
 
 
 ## Literatur: Bücher, E-Books & Co.
