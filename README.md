@@ -6,9 +6,12 @@ Wichtige Links zu Tools, Plugins, Tutorials und Websites.
 
 Downloads, Newsletter oder Websites, die sich im allgemeinen mit WP beschäftigen.
 
-1. [WordPress-Newsletter](http://www.wordpress-newsletter.perun.net) – erster deutschsprachiger WordPress-Newsletter.
+1. [WordPress-Newsletter](http://www.wordpress-newsletter.perun.net) – erster deutschsprachiger WordPress-Newsletter... wird übrigens von mir betrieben.
 2. [Deutschsprachiges Paket](http://wpde.org/download/) – WordPress mit deutscher Sprachdatei und übersetzten Inhalten.
 3. [WP Tavern](http://wptavern.com) – sehr aktives englischsprachiges Weblog mit News und Tutorials.
+4. [WP Letter](http://wpletter.de) – Newsletter von Sergej Müller
+5. [WP Beginner](http://www.wpbeginner.com/blog/) – aktives englischsprachiges Weblog
+6. [perun.net](http://www.perun.net/kategorie/wordpress/) – WordPress-Bereich meines Weblogs, wo ich seit 01/2004 u.a. über WP schreibe.
 
 ## Tools und Plugins
 
