@@ -30,7 +30,7 @@ Vorerst wird hier auch der Bereich Performance (-Optimierung) einsortiert
 6. [Theme Performance](http://themeshaper.com/2014/02/06/theme-performance/) – engl. Artikel zum Thema Performance-Optimierung.
 7. [5 einfache Maßnahmen um die Performance von WordPress-Websites zu verbessern](http://www.perun.net/2012/03/19/5-einfache-massnahmen-um-die-performance-von-wordpress-websites-zu-verbessern/) – dt. Artikel zum Thema Performance
 8. [Eigenes WordPress-Theme erstellen](http://www.perun.net/2013/12/19/wordpress-kurs-kostenloser-einstieg-in-die-themes-entwicklung/) – "*128 DIN-A4-Seiten langer, kostenloser WordPress-Kurs in dem Einsteigern + Quereinsteigern vermittelt wird, wie man eigene Themes erstellen kann*"
-9. [Using WordPress 3.8′s dashicons in your theme or plugin](jameskoster.co.uk/work/using-wordpress-3-8s-dashicons-theme-plugin/) – wie man die Icons aus dem backen von WP für das eigene Theme oder Plugin verwenden kann.
+9. [Using WordPress 3.8′s dashicons in your theme or plugin](http://jameskoster.co.uk/work/using-wordpress-3-8s-dashicons-theme-plugin/) – wie man die Icons aus dem backen von WP für das eigene Theme oder Plugin verwenden kann.
 
 ## Administration
 1. [Nav Menu Roles](http://wordpress.org/plugins/nav-menu-roles/) – Plugin um die individuellen Menüs für bestimmte Nutzer zu verstecken.
