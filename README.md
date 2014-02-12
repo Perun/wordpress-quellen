@@ -57,10 +57,12 @@ Downloads, Newsletter oder Websites, die sich im allgemeinen mit WP beschäftige
 ## Literatur: Bücher, E-Books & Co.
 
 1. [Einstieg in WordPress 3.8](http://www.perun.net/2014/01/31/einstieg-in-wordpress-3-8-als-gedrucktes-buch-und-als-e-book/)
+2. [WordPress – Das Praxisbuch (5. Auflage)](http://www.perun.net/2013/10/28/wordpress-das-praxisbuch-nun-auch-fuer-kindle/)
 
 
 ## Sonstige Informationen
 
 1. [WordPress in Numbers Infographic 2013](http://www.mooveagency.com/wordpress-infographic-2013)
 2. [WordPress: Die 12 besten Hacks aus 2013](http://t3n.de/news/wordpress-hacks-und-snippets-521944/)
+3. [How to Create Custom RSS Feeds in WordPress](http://www.wpbeginner.com/wp-tutorials/how-to-create-custom-rss-feeds-in-wordpress/)
 
