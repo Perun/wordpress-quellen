@@ -13,7 +13,7 @@ Downloads, Newsletter oder Websites, die sich im allgemeinen mit WP beschäftige
 5. [WP Tavern](http://wptavern.com) – sehr aktives englischsprachiges Weblog mit News und Tutorials.
 6. [WP Beginner](http://www.wpbeginner.com/blog/) – aktives englischsprachiges Weblog
 7. [perun.net](http://www.perun.net/kategorie/wordpress/) – WordPress-Bereich meines Weblogs, wo ich seit 01/2004 u.a. über WP schreibe.
-8. [Internationale Gruppe auf G+](https://plus.google.com/u/0/communities/101504763068635549461)
+8. [Internationale Gruppe auf G+](https://plus.google.com/u/0/communities/101504763068635549461) und Themes- und [Plugin-Entwickler-Gruppe](https://plus.google.com/u/0/communities/110928980572284315377)
 
 
 ## Tools und Plugins
@@ -39,6 +39,9 @@ Downloads, Newsletter oder Websites, die sich im allgemeinen mit WP beschäftige
 9. [Using WordPress 3.8′s dashicons in your theme or plugin](http://jameskoster.co.uk/work/using-wordpress-3-8s-dashicons-theme-plugin/) – wie man die Icons aus dem backen von WP für das eigene Theme oder Plugin verwenden kann.
 10. [Resources for Becoming a WordPress Developer](http://www.wpkube.com/resources-becoming-wordpress-developer/)
 11. [How to Measure Execution Time of a WordPress Function](http://www.wpmayor.com/code/how-to-measure-execution-time-of-a-wordpress-function/)
+12. [Default WordPress Generated CSS Cheat Sheet for Beginners](http://www.wpbeginner.com/wp-themes/default-wordpress-generated-css-cheat-sheet-for-beginners/)
+13. [How to Exclude Pages from WordPress Search Results](http://www.wpbeginner.com/wp-tutorials/how-to-exclude-pages-from-wordpress-search-results/)
+14. [Create WordPress Posts And Pages Using PHP](http://www.wpexplorer.com/create-wordpress-posts-pages-using-php/) – eine mehrteilige Serie
 
 
 ### Performance-Optimierung
@@ -69,4 +72,5 @@ Downloads, Newsletter oder Websites, die sich im allgemeinen mit WP beschäftige
 2. [WordPress: Die 12 besten Hacks aus 2013](http://t3n.de/news/wordpress-hacks-und-snippets-521944/)
 3. [How to Create Custom RSS Feeds in WordPress](http://www.wpbeginner.com/wp-tutorials/how-to-create-custom-rss-feeds-in-wordpress/)
 4. [Mehrsprachigkeit in WordPress – Eine Übersicht](http://www.elmastudio.de/wordpress/mehrsprachigkeit-in-wordpress-umsetzen-eine-ubersicht/)
+5. [14 Most Common WordPress Errors and How to Fix Them](http://www.wpbeginner.com/beginners-guide/14-most-common-wordpress-errors-and-how-to-fix-them/)
 
