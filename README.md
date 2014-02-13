@@ -13,6 +13,7 @@ Downloads, Newsletter oder Websites, die sich im allgemeinen mit WP beschäftige
 5. [WP Tavern](http://wptavern.com) – sehr aktives englischsprachiges Weblog mit News und Tutorials.
 6. [WP Beginner](http://www.wpbeginner.com/blog/) – aktives englischsprachiges Weblog
 7. [perun.net](http://www.perun.net/kategorie/wordpress/) – WordPress-Bereich meines Weblogs, wo ich seit 01/2004 u.a. über WP schreibe.
+8. [Internationale Gruppe auf G+](https://plus.google.com/u/0/communities/101504763068635549461)
 
 
 ## Tools und Plugins
@@ -67,4 +68,5 @@ Downloads, Newsletter oder Websites, die sich im allgemeinen mit WP beschäftige
 1. [WordPress in Numbers Infographic 2013](http://www.mooveagency.com/wordpress-infographic-2013)
 2. [WordPress: Die 12 besten Hacks aus 2013](http://t3n.de/news/wordpress-hacks-und-snippets-521944/)
 3. [How to Create Custom RSS Feeds in WordPress](http://www.wpbeginner.com/wp-tutorials/how-to-create-custom-rss-feeds-in-wordpress/)
+4. [Mehrsprachigkeit in WordPress – Eine Übersicht](http://www.elmastudio.de/wordpress/mehrsprachigkeit-in-wordpress-umsetzen-eine-ubersicht/)
 
