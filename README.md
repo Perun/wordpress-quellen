@@ -36,6 +36,8 @@ Downloads, Newsletter oder Websites, die sich im allgemeinen mit WP beschäftige
 5. [Underscores](http://underscores.me) – ein sehr bekanntes Starter-Theme, welches man als Grundlage für sein eigenes Theme nehmen kann.
 8. [Eigenes WordPress-Theme erstellen](http://www.perun.net/2013/12/19/wordpress-kurs-kostenloser-einstieg-in-die-themes-entwicklung/) – "*128 DIN-A4-Seiten langer, kostenloser WordPress-Kurs in dem Einsteigern + Quereinsteigern vermittelt wird, wie man eigene Themes erstellen kann*"
 9. [Using WordPress 3.8′s dashicons in your theme or plugin](http://jameskoster.co.uk/work/using-wordpress-3-8s-dashicons-theme-plugin/) – wie man die Icons aus dem backen von WP für das eigene Theme oder Plugin verwenden kann.
+10. [Resources for Becoming a WordPress Developer](http://www.wpkube.com/resources-becoming-wordpress-developer/)
+11. [How to Measure Execution Time of a WordPress Function](http://www.wpmayor.com/code/how-to-measure-execution-time-of-a-wordpress-function/)
 
 
 ### Performance-Optimierung
