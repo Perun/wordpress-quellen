@@ -58,6 +58,7 @@ Downloads, Newsletter oder Websites, die sich im allgemeinen mit WP beschäftige
 
 1. [11 Tipps um komfortabler und stressfrei Artikel zu erstellen](http://www.perun.net/2012/03/30/wordpress-11-tipps-um-komfortabler-und-stressfrei-artikel-zu-erstellen/)
 2. [28 Time Saving Hacks for WordPress Users (From the Experts)](https://managewp.com/wordpress-time-saving-hacks)
+3. [Posting Code Blocks on a WordPress Site](http://css-tricks.com/posting-code-blocks-wordpress-site/) – ein paar interessante Tipps, wenn man häufig Code-Beispiele in WP veröffentlicht.
 
 
 ## Literatur: Bücher, E-Books & Co.
