@@ -42,6 +42,7 @@ Downloads, Newsletter oder Websites, die sich im allgemeinen mit WP beschäftige
 12. [Default WordPress Generated CSS Cheat Sheet for Beginners](http://www.wpbeginner.com/wp-themes/default-wordpress-generated-css-cheat-sheet-for-beginners/)
 13. [How to Exclude Pages from WordPress Search Results](http://www.wpbeginner.com/wp-tutorials/how-to-exclude-pages-from-wordpress-search-results/)
 14. [Create WordPress Posts And Pages Using PHP](http://www.wpexplorer.com/create-wordpress-posts-pages-using-php/) – eine mehrteilige Serie
+15. [Unterkategorien das Template der Elternkategorie aufzwingen](http://werdswords.com/force-sub-categories-use-the-parent-category-template/)
 
 
 ### Performance-Optimierung
