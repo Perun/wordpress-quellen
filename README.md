@@ -54,7 +54,7 @@ Downloads, Newsletter oder Websites, die sich im allgemeinen mit WP beschäftige
 
 1. [Nav Menu Roles](http://wordpress.org/plugins/nav-menu-roles/) – Plugin um die individuellen Menüs für bestimmte Nutzer zu verstecken.
 2. [Hilfe-Text im Backend anpassen](http://code.tutsplus.com/tutorials/customizing-the-wordpress-admin-help-text--wp-33281)
-3. [http://wordpress.org/plugins/theme-test-drive/](http://wordpress.org/plugins/theme-test-drive/) – unterschiedliches Theme für Admin und die Besucher. Gut wenn man Themes testen möchte.
+3. [Theme Test Drive](http://wordpress.org/plugins/theme-test-drive/) – unterschiedliches Theme für Admin und die Besucher. Gut wenn man Themes testen möchte.
 
 ## Redaktionelle Betreuung
 
