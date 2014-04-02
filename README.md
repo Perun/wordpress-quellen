@@ -26,6 +26,7 @@ Downloads, Newsletter oder Websites, die sich im allgemeinen mit WP beschäftige
 6. [Sandbox-Plugin um eine geschützte Testumgebung zu erstellen](http://wptavern.com/sandbox-plugin-creates-a-wordpress-test-environment-in-two-clicks) – "Sandbox Plugin Creates a WordPress Test Environment in Two Clicks"
 7. [Code Snippets](http://www.perun.net/2012/12/05/wordpress-funktionen-aus-dem-admin-bereich-verwalten/) – ein Plugin mit dem man aus dem Admin-Bereich heraus neue Funktionen für WordPress definieren und verwalten kann.
 8. [Starter-Plugin](https://github.com/gthapar/WordPress-Starter-Plugin) – schneller und einfacher Einstieg in die Plugin-Programmierung.
+9. [Flexi Pages Widget](https://wordpress.org/plugins/flexi-pages-widget/) – dieses Plugin bietet die Möglichkeit, die Seiten und Unterseiten (Pages und Subpages) im Menü kontextsensitiv auszugeben: steuert man die Eltern-Seite an, werden die Kinder-Seiten im Menü angezeigt.
 
 
 ## Themes
@@ -58,6 +59,7 @@ Downloads, Newsletter oder Websites, die sich im allgemeinen mit WP beschäftige
 2. [Hilfe-Text im Backend anpassen](http://code.tutsplus.com/tutorials/customizing-the-wordpress-admin-help-text--wp-33281)
 3. [Theme Test Drive](http://wordpress.org/plugins/theme-test-drive/) – unterschiedliches Theme für Admin und die Besucher. Gut wenn man Themes testen möchte.
 4. [User Switching](https://wordpress.org/plugins/user-switching/) – schneller Wechsel zwischen verschiedenen Benutzeraccounts. Gut um z.B. die verschiedenen Benutzerstufen zu testen.
+5. [Vorschaubilder neu erstellen](http://www.perun.net/2010/11/15/wordpress-vorschaubilder-neu-erstellen/) – Vorschaubilder (Thumbnails) neu erstellen, z.B. wenn man die Maße der Bilder geändert hat.
 
 ## Redaktionelle Betreuung
 
@@ -70,6 +72,7 @@ Downloads, Newsletter oder Websites, die sich im allgemeinen mit WP beschäftige
 
 1. [Einstieg in WordPress 3.8](http://www.perun.net/2014/01/31/einstieg-in-wordpress-3-8-als-gedrucktes-buch-und-als-e-book/)
 2. [WordPress – Das Praxisbuch (5. Auflage)](http://www.perun.net/2013/10/28/wordpress-das-praxisbuch-nun-auch-fuer-kindle/)
+3. [Schulungsunterlagen für Seminaranbieter](http://www.perun.net/wordpress-anleitung-handbuch/) – Anleitung und Handbuch für Leute die Schulungsunterlagen für WordPress benötigen.
 
 
 ## Sonstige Informationen
