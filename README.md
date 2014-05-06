@@ -46,6 +46,7 @@ Downloads, Newsletter oder Websites, die sich im allgemeinen mit WP beschäftige
 14. [Create WordPress Posts And Pages Using PHP](http://www.wpexplorer.com/create-wordpress-posts-pages-using-php/) – eine mehrteilige Serie
 15. [Unterkategorien das Template der Elternkategorie aufzwingen](http://werdswords.com/force-sub-categories-use-the-parent-category-template/)
 16. [User Photo](http://wordpress.org/plugins/user-photo/) – Profilfotos für Autoren, mittels `userphoto()` kann man auch innerhalb der Template-dateien darauf zugreifen.
+17. [hookr.io](http://hookr.io) – ein Index um nach Hooks, Funktionen, Konstanten etc. zu recherchieren.
 
 
 ### Performance-Optimierung
